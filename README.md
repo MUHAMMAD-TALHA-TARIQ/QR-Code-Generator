@@ -33,3 +33,13 @@ Requirements are also saved in `requirements.txt` file.
     ```
     python "QR maker.py"
     ```
+
+
+
+## Application Usage
+
+ Enter your `Text` , `Background Color`, `Foreground Color`, `Filename` in input fields
+ 
+ press `Convert Text to QR` Button.
+ 
+ Your .png of QR-code will be saved in `base directory`.
