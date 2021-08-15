@@ -6,7 +6,7 @@ Requirements : `Python`  `PIL`  `tk`  `qrcode`
 Requirements are also saved in `requirements.txt` file.
 
 
-# How to Setup Application ?  
+## How to Setup Application ?  
 
 1) First Download zip file or use github link to clone git files.
 
