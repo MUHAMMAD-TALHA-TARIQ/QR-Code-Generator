@@ -8,8 +8,8 @@ Requirements are also saved in `requirements.txt` file.
 
 ## How to Setup Application ?  
 
-1) First Download zip file or use github link to clone git files.
-
+1) First [Download Zip File] (https://github.com/MUHAMMAD-TALHA-TARIQ/QR-Code-Generator/archive/refs/heads/main.zip).
+   
 2) Download and Install [Python](https://www.python.org/downloads/).
 
 2) Goto Cmd and write this command  ```cd <folder-Directory> ``` to redirect to QR-Code-Generator directory.
