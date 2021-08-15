@@ -14,7 +14,7 @@ Requirements are also saved in `requirements.txt` file.
 
 2) Goto Cmd and write this command  ```cd <folder-Directory> ``` to redirect to QR-Code-Generator directory.
 
-3) Install dependencies by using these commands
+3) Install dependencies by using these commands one by one:
 
    ```
    pip install qrcode 
@@ -29,7 +29,7 @@ Requirements are also saved in `requirements.txt` file.
    ```
  
   
-4) Finally Run this command 
+4) Finally Run this command :
     ```
     python "QR maker.py"
     ```
