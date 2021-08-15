@@ -17,21 +17,15 @@ Requirements are also saved in `requirements.txt` file.
 3) Install dependencies by using these commands
 
    ```
-   
    pip install qrcode 
-   
    ```
 
    ```
-   
    pip install PIL
-   
    ```
   
    ```
-   
    pip install tk 
-   
    ```
  
   
