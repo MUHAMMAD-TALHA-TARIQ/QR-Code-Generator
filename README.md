@@ -1,5 +1,5 @@
 # QR-Code-Generator
-Desktop Application based on python, that is used to create QR-Code of using `String, Integer and text`. Moreover user can input `Background & Foreground ` Color for the QR-code to allow customization functionality. User can also set `.png` filename to save the QR-code as image.
+Desktop Application based on python, that is used to create QR-Code from `text` input. Moreover user can input `Background & Foreground ` Color for the QR-code to allow customization functionality. User can also set `.png` filename to save the QR-code as image.
 
 Requirements : `Python`  `PIL`  `tk`  `qrcode`
 
