@@ -38,7 +38,7 @@ Requirements are also saved in `requirements.txt` file.
 
 ## Application Usage
 
- Enter your `Text` , `Background Color`, `Foreground Color`, `Filename` in input fields
+ Enter your `Text`, `Filename` , `Background Color`, `Foreground Color` in input fields
  
  press `Convert Text to QR` Button.
  
